@@ -20,4 +20,9 @@ gather from your answers is that it is clear enough for us to understand
 properly.
 
 ANSWER BELOW THIS LINE
+
 ===============================================================================
+While validating the cart we have to check that if the quantity of the particular
+product ordered by the customer is available or not. If the product is not available 
+we have to notify the customer that product is out of stock and how much time it will 
+take to reload the inventory as customer should be aware of the order details. 
